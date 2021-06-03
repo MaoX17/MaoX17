@@ -26,6 +26,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maurizioproietti/](https://www.linkedin.com/in/maurizioproietti/)
 
+- 📄 My blog: [https://www.gremapro.it/posts/](https://www.gremapro.it/posts/)
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
