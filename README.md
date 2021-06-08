@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **maurizio.proietti@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maurizioproietti/](https://www.linkedin.com/in/maurizioproietti/) - [About Me](https://www.gremapro.it/about/)
+- 📄 Know about my experiences [About Me](https://www.gremapro.it/about/) - [on Linkedin](https://www.linkedin.com/in/maurizioproietti/)
 
 - 📄 My blog: [https://www.gremapro.it/posts/](https://www.gremapro.it/posts/)
 
