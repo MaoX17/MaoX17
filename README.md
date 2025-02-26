@@ -18,9 +18,7 @@
 
 - 🤝 I’m looking for help with [Strails](https://github.com/MaoX17/strails)
 
-- 👨‍💻 All of my projects are available at [https://www.gremapro.it/portfolio/](https://www.gremapro.it/portfolio/)
-
-- Other projects [https://github.com/MaoX17](https://github.com/MaoX17)
+- 👨‍💻 All of my projects are available at [https://github.com/MaoX17](https://github.com/MaoX17)
 
 - 📫 How to reach me **maurizio.proietti@gmail.com**
 
